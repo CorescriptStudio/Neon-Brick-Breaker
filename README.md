@@ -25,12 +25,8 @@ A modern, neon-themed Brick Breaker game built using **pure HTML, CSS, and JavaS
 ## 📂 Project Structure  
 /project-folder
 │── index.html
-│── style.css (optional: styles in HTML)
-│── script.js (if separated)
-└── assets/ (optional)
-
-yaml
-Copy code
+│── style.css
+│── script.js
 
 ---
 
